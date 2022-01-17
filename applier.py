@@ -110,7 +110,7 @@ def indeed(options):
                 break
 
 
-
+    driver.close()
 
 
 
