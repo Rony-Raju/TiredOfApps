@@ -1,1 +1,688 @@
 
+1642981147762	geckodriver	INFO	Listening on 127.0.0.1:54095
+1642981280199	geckodriver	INFO	Listening on 127.0.0.1:54173
+1642981283234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--remote-debugging-port" "54174" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-23T23:41:23Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642981342871	geckodriver	INFO	Listening on 127.0.0.1:54285
+1642981345856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--remote-debugging-port" "54286" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-23T23:42:26Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642981834527	geckodriver	INFO	Listening on 127.0.0.1:53157
+1642981837560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 42069" "--remote-debugging-port" "53158" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-23T23:50:37Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642981877650	geckodriver	INFO	Listening on 127.0.0.1:53274
+1642981880675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 42069" "--remote-debugging-port" "53275" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-23T23:51:20Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642983166006	geckodriver	INFO	Listening on 127.0.0.1:58379
+1642983169023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 42069" "--remote-debugging-port" "58380" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:12:49Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642983183652	geckodriver	INFO	Listening on 127.0.0.1:58489
+1642983186767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 42069" "--remote-debugging-port" "58490" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:13:07Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642983527389	geckodriver	INFO	Listening on 127.0.0.1:58733
+1642983530419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 42069" "--remote-debugging-port" "58734" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:18:50Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642983540020	geckodriver	INFO	Listening on 127.0.0.1:53987
+1642983543045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 42069" "--remote-debugging-port" "53988" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:19:03Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642983778849	geckodriver	INFO	Listening on 127.0.0.1:54107
+1642983781863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "54108" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:23:02Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984083086	geckodriver	INFO	Listening on 127.0.0.1:54321
+1642984086101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "54322" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:28:06Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984143397	geckodriver	INFO	Listening on 127.0.0.1:64014
+1642984146413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64015" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:29:06Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984152162	geckodriver	INFO	Listening on 127.0.0.1:64059
+1642984155176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64060" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:29:15Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984175579	geckodriver	INFO	Listening on 127.0.0.1:64110
+1642984178594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64111" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:29:38Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984199063	geckodriver	INFO	Listening on 127.0.0.1:64161
+1642984202083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64162" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:30:02Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984216281	geckodriver	INFO	Listening on 127.0.0.1:64209
+1642984219296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64210" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:30:19Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642984376748	geckodriver	INFO	Listening on 127.0.0.1:64292
+1642984379775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64293" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:33:00Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642985389414	geckodriver	INFO	Listening on 127.0.0.1:54300
+1642985392427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "54301" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:49:52Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642985847896	geckodriver	INFO	Listening on 127.0.0.1:57361
+1642985850900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "57362" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T00:57:31Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642986049686	geckodriver	INFO	Listening on 127.0.0.1:57540
+1642986052710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "57541" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:00:53Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642986297011	geckodriver	INFO	Listening on 127.0.0.1:58067
+1642986300025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "58068" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:05:00Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642986324063	geckodriver	INFO	Listening on 127.0.0.1:58123
+1642986327081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "58124" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:05:27Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642986548279	geckodriver	INFO	Listening on 127.0.0.1:58269
+1642986551341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "58270" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:09:11Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642986791433	geckodriver	INFO	Listening on 127.0.0.1:58417
+1642986794448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "58418" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:13:14Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642986811061	geckodriver	INFO	Listening on 127.0.0.1:58504
+1642986814073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "58505" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:13:34Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642987033828	geckodriver	INFO	Listening on 127.0.0.1:58757
+1642987036843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "58758" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:17:17Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642987372729	geckodriver	INFO	Listening on 127.0.0.1:50193
+1642987375754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "50194" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:22:56Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642987991957	geckodriver	INFO	Listening on 127.0.0.1:50472
+1642987994971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "50473" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:33:15Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988042902	geckodriver	INFO	Listening on 127.0.0.1:50601
+1642988045919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "50602" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:34:06Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642988158601	geckodriver	INFO	Listening on 127.0.0.1:50851
+1642988161620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "50852" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:36:01Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988320547	geckodriver	INFO	Listening on 127.0.0.1:50966
+1642988323562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "50967" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:38:43Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988335479	geckodriver	INFO	Listening on 127.0.0.1:51027
+1642988338507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "51028" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:38:58Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988356602	geckodriver	INFO	Listening on 127.0.0.1:51079
+1642988359617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "51080" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:39:19Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988469988	geckodriver	INFO	Listening on 127.0.0.1:51192
+1642988473003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "51193" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:41:13Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988480764	geckodriver	INFO	Listening on 127.0.0.1:51239
+1642988483780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "–disable-gpu-shader-disk-cache " "--remote-debugging-port" "51240" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:41:24Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988616440	geckodriver	INFO	Listening on 127.0.0.1:51538
+1642988619453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "51539" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:43:39Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642988720952	geckodriver	INFO	Listening on 127.0.0.1:51748
+1642988723956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "51749" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:45:24Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988851532	geckodriver	INFO	Listening on 127.0.0.1:51957
+1642988854542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "51958" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:47:35Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642988987065	geckodriver	INFO	Listening on 127.0.0.1:52069
+1642988990080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "52070" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:49:50Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989004724	geckodriver	INFO	Listening on 127.0.0.1:52116
+1642989007749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "52117" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:50:08Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989113349	geckodriver	INFO	Listening on 127.0.0.1:52216
+1642989116366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "52217" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:51:56Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989124553	geckodriver	INFO	Listening on 127.0.0.1:52265
+1642989127570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "-disable-gpu-shader-disk-cache " "--remote-debugging-port" "52266" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:52:07Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989266667	geckodriver	INFO	Listening on 127.0.0.1:52385
+1642989269682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52386" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:54:29Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989311691	geckodriver	INFO	Listening on 127.0.0.1:52501
+1642989314712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52502" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:55:15Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989336727	geckodriver	INFO	Listening on 127.0.0.1:52553
+1642989339742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52554" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:55:40Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989562678	geckodriver	INFO	Listening on 127.0.0.1:52663
+1642989565704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52664" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:59:25Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989583555	geckodriver	INFO	Listening on 127.0.0.1:52717
+1642989586585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52718" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:59:46Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642989593087	geckodriver	INFO	Listening on 127.0.0.1:52760
+1642989596103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52761" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T01:59:56Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642989610599	geckodriver	INFO	Listening on 127.0.0.1:52814
+1642989613620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52815" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:00:13Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642990059674	geckodriver	INFO	Listening on 127.0.0.1:53153
+1642990062691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53154" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:07:42Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642990649410	geckodriver	INFO	Listening on 127.0.0.1:53348
+1642990652427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53349" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:17:32Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642990953590	geckodriver	INFO	Listening on 127.0.0.1:53687
+1642990956584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53688" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:22:37Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642990968237	geckodriver	INFO	Listening on 127.0.0.1:53734
+1642990971254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53735" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:22:51Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642990977416	geckodriver	INFO	Listening on 127.0.0.1:53777
+1642990980437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53778" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:23:00Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642990997980	geckodriver	INFO	Listening on 127.0.0.1:53835
+1642991000995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53836" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:23:21Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991147070	geckodriver	INFO	Listening on 127.0.0.1:54096
+1642991150087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54097" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:25:50Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991210600	geckodriver	INFO	Listening on 127.0.0.1:54191
+1642991213616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54192" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:26:53Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642991220946	geckodriver	INFO	Listening on 127.0.0.1:54240
+1642991223961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54241" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:27:04Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991249780	geckodriver	INFO	Listening on 127.0.0.1:54297
+1642991252794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54298" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:27:33Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642991260592	geckodriver	INFO	Listening on 127.0.0.1:54342
+1642991263606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54343" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:27:43Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991268420	geckodriver	INFO	Listening on 127.0.0.1:54386
+1642991271439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54387" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:27:51Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642991284651	geckodriver	INFO	Listening on 127.0.0.1:54435
+1642991287668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54436" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:28:07Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991292295	geckodriver	INFO	Listening on 127.0.0.1:54473
+1642991295313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54474" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:28:15Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991445407	geckodriver	INFO	Listening on 127.0.0.1:54591
+1642991448446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "54592" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:30:48Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991513535	geckodriver	INFO	Listening on 127.0.0.1:54641
+1642991516558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "54642" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:31:56Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991844052	geckodriver	INFO	Listening on 127.0.0.1:55113
+1642991847067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55114" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:37:27Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642991857460	geckodriver	INFO	Listening on 127.0.0.1:55263
+1642991860476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55264" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:37:40Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642991916073	geckodriver	INFO	Listening on 127.0.0.1:55369
+1642991919089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55370" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:38:39Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992010269	geckodriver	INFO	Listening on 127.0.0.1:55404
+1642992013287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55405" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:40:13Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992025022	geckodriver	INFO	Listening on 127.0.0.1:55452
+1642992028038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55453" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:40:28Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992037492	geckodriver	INFO	Listening on 127.0.0.1:55499
+1642992040512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55500" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:40:40Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992058232	geckodriver	INFO	Listening on 127.0.0.1:55555
+1642992061247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55556" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:41:01Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992071877	geckodriver	INFO	Listening on 127.0.0.1:55602
+1642992074891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55603" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:41:15Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642992080272	geckodriver	INFO	Listening on 127.0.0.1:55646
+1642992083287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55647" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:41:23Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992094986	geckodriver	INFO	Listening on 127.0.0.1:55691
+1642992098002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55692" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:41:38Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992223815	geckodriver	INFO	Listening on 127.0.0.1:55263
+1642992226829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55264" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:43:47Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642992232698	geckodriver	INFO	Listening on 127.0.0.1:55312
+1642992235713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55313" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:43:56Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642992418723	geckodriver	INFO	Listening on 127.0.0.1:55482
+1642992421725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55483" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:47:02Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642992872180	geckodriver	INFO	Listening on 127.0.0.1:55621
+1642992875204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "55622" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:54:35Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993098787	geckodriver	INFO	Listening on 127.0.0.1:58185
+1642993101802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58186" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:58:22Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642993113912	geckodriver	INFO	Listening on 127.0.0.1:58236
+1642993116928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58237" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:58:37Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993128255	geckodriver	INFO	Listening on 127.0.0.1:58281
+1642993131270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58282" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:58:51Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993138386	geckodriver	INFO	Listening on 127.0.0.1:58328
+1642993141414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58329" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:59:01Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642993147729	geckodriver	INFO	Listening on 127.0.0.1:58371
+1642993156595	geckodriver	INFO	Listening on 127.0.0.1:58376
+1642993159614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58377" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:59:19Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993176944	geckodriver	INFO	Listening on 127.0.0.1:58424
+1642993179959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58425" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T02:59:40Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993249572	geckodriver	INFO	Listening on 127.0.0.1:58473
+1642993252597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "58474" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:00:52Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993792144	geckodriver	INFO	Listening on 127.0.0.1:52172
+1642993795163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "52173" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:09:55Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993810775	geckodriver	INFO	Listening on 127.0.0.1:52288
+1642993813789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "52289" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:10:14Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993831375	geckodriver	INFO	Listening on 127.0.0.1:52400
+1642993834388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "52401" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:10:34Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642993930419	geckodriver	INFO	Listening on 127.0.0.1:52494
+1642993933434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "52495" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:12:13Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642994029198	geckodriver	INFO	Listening on 127.0.0.1:52650
+1642994032194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "52651" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:13:52Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642994116013	geckodriver	INFO	Listening on 127.0.0.1:52807
+1642994119026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "52808" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:15:19Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642994124657	geckodriver	INFO	Listening on 127.0.0.1:64530
+1642994127672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64531" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:15:27Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642994165381	geckodriver	INFO	Listening on 127.0.0.1:64578
+1642994168402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64579" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:16:08Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1642994175246	geckodriver	INFO	Listening on 127.0.0.1:64623
+1642994178261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--remote-debugging-port" "64624" "-no-remote"
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-01-24T03:16:18Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
