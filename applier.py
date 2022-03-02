@@ -8,50 +8,71 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.common.alert import Alert
 vowelList = ['A', 'a', 'E', 'e', 'I', 'i', 'O', 'o', 'U', 'u']
 
-def next(driver):
+def next_page(driver):
     buttons = driver.find_elements(By.TAG_NAME, "button")
+    header = driver.find_element(By.TAG_NAME, 'h1')
     for text in buttons:
-
         words = text.get_attribute('innerHTML')
-        if 'Continue' in words or 'application' in words:
-            text.click()
-            print('going to next page')
-            return
+        if 'Continue' in words or 'appl' in words or 'Apply now' in words:
+            driver.execute_script("arguments[0].click()", text)
+            # text.click()
+            #if the next header is the same as the previous, we haven't moved
+            time.sleep(2)
+            new_header = driver.find_element(By.TAG_NAME, 'h1')
+            if new_header == header:           
+                return 0
+            else:
+                return 1 
 
 def indeed(options, service):
-    driver = Firefox(service=service, options=options)
-    driver.get('https://www.indeed.com/')
+    while True:
+        try:
+            driver = Firefox(service=service, options=options)
+            try:
+                driver.get("https://myjobs.indeed.com/saved?hl=en&co=US&from=_atweb_gnav-homepage")
+            except Exception:
+                pass
+            if driver.current_url == "https://myjobs.indeed.com/saved?hl=en&co=US&from=_atweb_gnav-homepage":
+                break    
+        except Exception:
+            driver.close()
+        
+
+ 
         #find the user icon and click on saved jobs
-    driver.find_element(By.XPATH,'//div[@class="gnav-header-5fxd2s-Box eu4oa1w0"]').click()
-    driver.find_element(By.XPATH,'//a[@data-gnav-element-name="MyJobs"]').click()
+    
 
     postings = driver.find_elements(By.CSS_SELECTOR, 'a.atw-ApplyButton')
 
     applications = [x.get_attribute('href') for x in postings]
     for x in applications:
-        time.sleep(0.5)
         driver.get(x)
-        driver.find_element(By.XPATH, '//button[@id="indeedApplyButton"]').click()
+        try: 
+            Alert(driver).accept()
+        except Exception:
+            pass
+        time.sleep(2)
         header = ''
+        redundancy = 1
+        next_page(driver)
         link = x
         while("Please Review" not in header):
-            time.sleep(0.5)
-            print(f"header is {header}\n\n\n")
+            time.sleep(2)
             try:
                 #get the header each time and behave accordingly
                 header = driver.find_element(By.XPATH, '//h1[@class="ia-BasePage-heading fs-unmask"]')
                 header = header.get_attribute('innerHTML')
-                print(f"header is {header}\n\n\n")
+                if not redundancy:
+                    break
                 #for preliminary questions
-                if "Questions" in header:
+                elif "Questions" in header:
                     questions = driver.find_elements(By.XPATH, '//div[@class="ia-Questions-item css-e9ld6l eu4oa1w0"]')
                     questions_text = [x.get_attribute('innerHTML') for x in questions]
-
                     for i, text in enumerate(questions_text):
-                        print(text)
-                        if "sponsorship" in text or "sponsor" in text:
+                        if "sponsor" in text:
                             try:
                                 driver.execute_script("arguments[0].click()", questions[i].find_element(By.XPATH, '//input[@value="0"]'))
                             except Exception:
@@ -69,26 +90,23 @@ def indeed(options, service):
                                         continue
                             except Exception:
                                 if 'value=""' in text:
-                                    print(f'i is {i}')
                                     response = questions[i].find_element(By.XPATH, '//input[@value=""]')
                                     response.send_keys(Keys.CONTROL+'a')
                                     response.send_keys('3')
                                 continue
-
                         elif "salary" in text:
                             questions[i].find_element(By.CSS_SELECTOR, "div.css-d8iwdi e1jgz0i3").send_keys('65000 - 85000')
                         else:
-                            print('weird questions just say yes')
+                            
                             #weird thing to click, because element obscures
                             try:
                                 driver.execute_script("arguments[0].click()", questions[i].find_element(By.XPATH, '//input[@value="1"]'))
                             except Exception:
                                 pass
-
+                        #TODO: case handling for commuting and protected veteran
                     #next page
-                    next(driver)
+                    redundancy = next_page(driver)                 
                     continue
-
                 #for the letter
                 elif "Want to" in header:
                     #tricky part is the letter
@@ -96,16 +114,14 @@ def indeed(options, service):
                     job = job.get_attribute('innerHTML')
                     #name of company
                     company = job[:job.find(" - ")-1]
-                    print(company)
+                   
                     job = driver.find_element(By.XPATH, '//div[@class="ia-JobHeader-title ia-JobHeader-title--withJobDetails"]')
-                    job = job.get_attribute('innerHTML')
-                    print(job)
+                    job = job.get_attribute('innerHTML')              
                     #correct grammar
                     if job[0] in vowelList:
                         job = 'an ' + job
                     else:
-                        job = 'a ' + job
-                    print(job)
+                        job = 'a ' + job               
                     #find the location of the coverletter field and click
                     coverletter = driver.find_element(By.XPATH, '//span[@title="Write cover letter"]')
                     coverletter.click()
@@ -114,10 +130,8 @@ def indeed(options, service):
                     #don't forget to clear the text field of previous response
                     coverletter.send_keys(Keys.CONTROL+'a')
                     coverletter.send_keys(Keys.BACK_SPACE)
-
                     #open the coverletter
                     file = open('coverletter.txt', 'r')
-
                     #put these two entries into the coverletter
                     for i, x in enumerate(file):
                         time.sleep(0.3)
@@ -129,13 +143,14 @@ def indeed(options, service):
                         coverletter.send_keys(x)
                     #sweet this works great
                     #next page
-                    next(driver)
+                    redundancy = next_page(driver)
                     continue
+                elif "Want to" in header:
+                    redundancy = next_page(driver)
                 #if the header asks for resume, confirmations, past jobs, or otherwise by default
                 else:
-                    print("nonspecific page, just skip")
                     #continued weirdness. Now just look for buttons with innerHTML with 'continue'
-                    next(driver)
+                    redundancy = next_page(driver)
                     continue
             except Exception:
                 print("Something didn't work")
@@ -146,8 +161,7 @@ def indeed(options, service):
                 f.close()
                 break
         print("End of process")
-        next(driver)
-
+        next_page(driver)
     driver.close()
 
 
@@ -180,7 +194,7 @@ options.set_preference("remote.prefs.recommended", False)
 options.set_preference("dom.allow_scripts_to_close_windows", True)
 options.set_preference("browser.tabs.closeWindowWithLastTab", True)
 options.add_argument("--marionette-port 5555")
-# options.add_argument("--disable-gpu-shader-disk-cache ")
+options.add_argument("--disable-gpu-shader-disk-cache ")
 
 # cwd = os.getcwd()
 # print(cwd)

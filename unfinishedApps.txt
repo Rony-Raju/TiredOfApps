@@ -1,1 +1,331 @@
 
+01-24-2022 00:18:06 unfinished app: https://www.indeed.com/viewjob?jk=e0d0cbed42e61dc0&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:18:10 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:19:48 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:24:43 unfinished app: https://www.indeed.com/viewjob?jk=96698c03d50c5515&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:25:01 unfinished app: https://www.indeed.com/viewjob?jk=f5f91346ad206cb6&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:25:05 unfinished app: https://www.indeed.com/viewjob?jk=d2a6b2cfc99a9d88&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:29:44 unfinished app: https://www.indeed.com/viewjob?jk=a7ce4de4bcd1ad11&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:30:55 unfinished app: https://www.indeed.com/viewjob?jk=2b14b05016f846b9&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:36:31 unfinished app: https://www.indeed.com/viewjob?jk=2b14b05016f846b9&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:36:33 unfinished app: https://www.indeed.com/viewjob?jk=29214a2234154cde&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:36:35 unfinished app: https://www.indeed.com/viewjob?jk=1c6afbb3cd605066&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:36:37 unfinished app: https://www.indeed.com/viewjob?jk=9e5125a3ae787a29&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:36:40 unfinished app: https://www.indeed.com/viewjob?jk=5785394d729c6745&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:44:15 unfinished app: https://www.indeed.com/viewjob?jk=2b14b05016f846b9&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:45:18 unfinished app: https://www.indeed.com/viewjob?jk=29214a2234154cde&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:45:38 unfinished app: https://www.indeed.com/viewjob?jk=1c6afbb3cd605066&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:45:57 unfinished app: https://www.indeed.com/viewjob?jk=9e5125a3ae787a29&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 00:46:18 unfinished app: https://www.indeed.com/viewjob?jk=5785394d729c6745&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 22:51:41 unfinished app: https://www.indeed.com/viewjob?jk=5c4398c291bec37c&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 22:52:26 unfinished app: https://www.indeed.com/viewjob?jk=fc2137b4f3ca7b52&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+01-24-2022 22:52:30 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-12-2022 20:08:16 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:11:19 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:15:23 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:26:22 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:26:39 unfinished app: https://www.indeed.com/viewjob?jk=b035af3c32001e15&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:26:44 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:32:24 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:39:59 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:40:03 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:40:05 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:40:07 unfinished app: https://www.indeed.com/viewjob?jk=73027fb69b147c7b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 02:40:10 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:42:20 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:43:09 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:43:55 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:45:13 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:46:33 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:47:37 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:59:37 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 18:59:56 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 19:00:28 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 19:00:58 unfinished app: https://www.indeed.com/viewjob?jk=73027fb69b147c7b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-13-2022 19:01:14 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:47:38 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:47:44 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:47:49 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:47:54 unfinished app: https://www.indeed.com/viewjob?jk=73027fb69b147c7b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:47:59 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:53:32 unfinished app: https://www.indeed.com/viewjob?jk=b03b228574bd4c2a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:53:35 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:53:38 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:53:40 unfinished app: https://www.indeed.com/viewjob?jk=73027fb69b147c7b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-14-2022 03:53:44 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 20:38:51 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 20:39:05 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 20:39:58 unfinished app: https://www.indeed.com/viewjob?jk=73027fb69b147c7b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 20:42:41 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 20:43:31 unfinished app: https://www.indeed.com/viewjob?jk=8fcb66fb02e1ed05&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:49:35 unfinished app: https://www.indeed.com/viewjob?jk=ba4f50d29e608f4d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:49:42 unfinished app: https://www.indeed.com/viewjob?jk=cbe44e207589b1ec&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:49:51 unfinished app: https://www.indeed.com/viewjob?jk=72c820b845da44b6&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:51:31 unfinished app: https://www.indeed.com/viewjob?jk=c26dcd8b04cd38b3&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:53:05 unfinished app: https://www.indeed.com/viewjob?jk=ba4f50d29e608f4d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:53:14 unfinished app: https://www.indeed.com/viewjob?jk=cbe44e207589b1ec&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:53:43 unfinished app: https://www.indeed.com/viewjob?jk=ba4f50d29e608f4d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:54:22 unfinished app: https://www.indeed.com/viewjob?jk=cbe44e207589b1ec&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:54:35 unfinished app: https://www.indeed.com/viewjob?jk=72c820b845da44b6&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:56:24 unfinished app: https://www.indeed.com/viewjob?jk=c26dcd8b04cd38b3&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:56:34 unfinished app: https://www.indeed.com/viewjob?jk=9377a47a02341278&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:56:46 unfinished app: https://www.indeed.com/viewjob?jk=1c54c1720d7e4296&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:58:08 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 21:58:40 unfinished app: https://www.indeed.com/viewjob?jk=73027fb69b147c7b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:00:57 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:02:41 unfinished app: https://www.indeed.com/viewjob?jk=d5ad846702b31dd2&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:02:48 unfinished app: https://www.indeed.com/viewjob?jk=bf501ad796284844&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:02:54 unfinished app: https://www.indeed.com/viewjob?jk=35e15c37a4bcb592&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:02 unfinished app: https://www.indeed.com/viewjob?jk=6a72ccec5c9a5e85&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:09 unfinished app: https://www.indeed.com/viewjob?jk=ba1de69c5d9f422d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:17 unfinished app: https://www.indeed.com/viewjob?jk=d40af6f76c7d096a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:23 unfinished app: https://www.indeed.com/viewjob?jk=dec75f096a285337&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:30 unfinished app: https://www.indeed.com/viewjob?jk=170f88188fed083a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:36 unfinished app: https://www.indeed.com/viewjob?jk=1718bbec8d3fbbb9&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:03:43 unfinished app: https://www.indeed.com/viewjob?jk=f294208082c18a6b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:25:57 unfinished app: https://www.indeed.com/viewjob?jk=d5ad846702b31dd2&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:04 unfinished app: https://www.indeed.com/viewjob?jk=bf501ad796284844&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:11 unfinished app: https://www.indeed.com/viewjob?jk=35e15c37a4bcb592&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:18 unfinished app: https://www.indeed.com/viewjob?jk=6a72ccec5c9a5e85&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:25 unfinished app: https://www.indeed.com/viewjob?jk=ba1de69c5d9f422d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:33 unfinished app: https://www.indeed.com/viewjob?jk=d40af6f76c7d096a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:39 unfinished app: https://www.indeed.com/viewjob?jk=dec75f096a285337&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:47 unfinished app: https://www.indeed.com/viewjob?jk=170f88188fed083a&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:26:54 unfinished app: https://www.indeed.com/viewjob?jk=1718bbec8d3fbbb9&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:27:02 unfinished app: https://www.indeed.com/viewjob?jk=f294208082c18a6b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:27:16 unfinished app: https://www.indeed.com/viewjob?jk=bd3af34180462350&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:27:24 unfinished app: https://www.indeed.com/viewjob?jk=7298ad4e3aa57d8b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:27:31 unfinished app: https://www.indeed.com/viewjob?jk=ba4f50d29e608f4d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:27:51 unfinished app: https://www.indeed.com/viewjob?jk=9377a47a02341278&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:28:05 unfinished app: https://www.indeed.com/viewjob?jk=393bd3fe33d9a797&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-19-2022 22:28:11 unfinished app: https://www.indeed.com/viewjob?jk=8a85f23a54363397&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+02-27-2022 01:18:18 unfinished app: https://www.indeed.com/viewjob?jk=6a72ccec5c9a5e85&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:00:33 unfinished app: https://www.indeed.com/viewjob?jk=7298ad4e3aa57d8b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:00:47 unfinished app: https://www.indeed.com/viewjob?jk=ba4f50d29e608f4d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:01:09 unfinished app: https://www.indeed.com/viewjob?jk=72c820b845da44b6&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:01:19 unfinished app: https://www.indeed.com/viewjob?jk=9377a47a02341278&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:03:50 unfinished app: https://www.indeed.com/viewjob?jk=7298ad4e3aa57d8b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:22:36 unfinished app: https://www.indeed.com/viewjob?jk=7298ad4e3aa57d8b&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:22:49 unfinished app: https://www.indeed.com/viewjob?jk=ba4f50d29e608f4d&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:23:10 unfinished app: https://www.indeed.com/viewjob?jk=72c820b845da44b6&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
+03-02-2022 00:23:18 unfinished app: https://www.indeed.com/viewjob?jk=9377a47a02341278&hl=en
+<method 'with_traceback' of 'BaseException' objects>
+
