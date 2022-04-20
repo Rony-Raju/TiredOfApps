@@ -6687,3 +6687,219 @@ LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blo
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1646617980116	geckodriver	INFO	Listening on 127.0.0.1:50187
+1646617984364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "50188" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T01:53:05Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646618008859	geckodriver	INFO	Listening on 127.0.0.1:57905
+1646618011962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "57906" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T01:53:32Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1646618227399	geckodriver	INFO	Listening on 127.0.0.1:58041
+1646618230390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58042" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T01:57:10Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1646618524234	geckodriver	INFO	Listening on 127.0.0.1:58175
+1646618527252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58176" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:02:07Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1646618797968	geckodriver	INFO	Listening on 127.0.0.1:58312
+1646618800978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58313" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:06:41Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1646618891137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58313" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:08:11Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1646618914412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58313" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:08:34Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1646618936451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58313" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:08:56Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646619920557	geckodriver	INFO	Listening on 127.0.0.1:58617
+1646619923580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58618" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:25:23Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1646619940572	geckodriver	INFO	Listening on 127.0.0.1:58715
+1646619943590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58716" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:25:43Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646620219266	geckodriver	INFO	Listening on 127.0.0.1:52425
+1646620222284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52426" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T02:30:22Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1646651650983	geckodriver	INFO	Listening on 127.0.0.1:64248
+1646651654345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "64249" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T11:14:14Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646651664735	geckodriver	INFO	Listening on 127.0.0.1:64291
+1646651667768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "64292" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T11:14:28Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1646651680264	geckodriver	INFO	Listening on 127.0.0.1:64308
+1646651683282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "64309" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T11:14:43Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646651790707	geckodriver	INFO	Listening on 127.0.0.1:64416
+1646651793727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "64417" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-03-07T11:16:34Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650412783164	geckodriver	INFO	Listening on 127.0.0.1:58096
+1650412786218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58097" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-19T23:59:46Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650412844781	geckodriver	INFO	Listening on 127.0.0.1:58219
+1650412847685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58220" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T00:00:47Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650413172564	geckodriver	INFO	Listening on 127.0.0.1:58410
+1650413175569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "58411" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T00:06:16Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650417339669	geckodriver	INFO	Listening on 127.0.0.1:54094
+1650417342688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "54095" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T01:15:43Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

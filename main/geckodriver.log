@@ -1,0 +1,404 @@
+1650422330170	geckodriver	INFO	Listening on 127.0.0.1:52522
+1650422333169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52523" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:38:53Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1650422348391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52523" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:39:08Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+irefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52645" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:39:36Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650422399833	geckodriver	INFO	Listening on 127.0.0.1:52661
+1650422402853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52662" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:40:03Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1650422417369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52662" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:40:17Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1650422431053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52662" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:40:31Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650422569874	geckodriver	INFO	Listening on 127.0.0.1:52873
+1650422572890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52874" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:42:53Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1650422585645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52874" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:43:05Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650422612602	geckodriver	INFO	Listening on 127.0.0.1:52975
+1650422615620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "52976" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:43:35Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650422754078	geckodriver	INFO	Listening on 127.0.0.1:53049
+1650422757106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53050" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:45:57Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1650422770703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53050" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:46:10Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650422820798	geckodriver	INFO	Listening on 127.0.0.1:53139
+1650422823826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53140" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:47:04Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+F:\Dropbox\UNT\TiredofApps\geckodriver.exe: error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (os error 10048)
+geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300) 
+WebDriver implementation for Firefox
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+FLAGS:
+        --connect-existing    Connect to an existing Firefox instance
+    -h, --help                Prints this message
+        --jsdebugger          Attach browser toolbox debugger for Firefox
+    -v                        Log level verbosity (-v for debug and -vv for trace level)
+    -V, --version             Prints version and copying information
+
+OPTIONS:
+        --android-storage <ANDROID_STORAGE>    Selects storage location to be used for test data (deprecated). [possible
+                                               values: auto, app, internal, sdcard]
+    -b, --binary <BINARY>                      Path to the Firefox binary
+        --log <LEVEL>                          Set Gecko log level [possible values: fatal, error, warn, info, config,
+                                               debug, trace]
+        --marionette-host <HOST>               Host to use to connect to Gecko [default: 127.0.0.1]
+        --marionette-port <PORT>               Port to use to connect to Gecko [default: system-allocated port]
+        --host <HOST>                          Host IP to use for WebDriver server [default: 127.0.0.1]
+    -p, --port <PORT>                          Port to use for WebDriver server [default: 4444]
+        --websocket-port <PORT>                Port to use to connect to WebDriver BiDi [default: 9222]
+1650422836859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53140" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:47:17Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650422943766	geckodriver	INFO	Listening on 127.0.0.1:53242
+1650422946783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53243" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:49:07Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650423181262	geckodriver	INFO	Listening on 127.0.0.1:53413
+1650423184282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53414" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:53:04Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+1650423219911	geckodriver	INFO	Listening on 127.0.0.1:53511
+1650423222925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-profile F:\\Dropbox\\UNT\\TiredofApps\\ed53ej1d.Gecko" "--marionette-port 5555" "--disable-gpu-shader-disk-cache " "--remote-debugging-port" "53512" "-no-remote"
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'wrusr.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2022-04-20T02:53:43Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported

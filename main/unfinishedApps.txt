@@ -1,0 +1,8 @@
+04-19-2022 21:54:27 unfinished app: https://www.indeed.com/viewjob?jk=9377a47a02341278&hl=en
+Message: Unable to locate element: div.css-d8iwdi e1jgz0i3
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+
+
